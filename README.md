@@ -26,8 +26,7 @@
 ### 📊 Real-Time Dashboard
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasReal)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasReal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true&v=1" alt="Current Streak" />
 </p>
