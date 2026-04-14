@@ -23,13 +23,14 @@
 
 ---
 
-### 📊 Real-Time Dashboard
+### 📊 Real-Time Dashboard (Intento Dinámico)
 
-<p align="center">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatiasReal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasReal&show_icons=true&theme=radical&hide_border=true&v=1" alt="Matias' GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasReal&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" height="170" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true&v=1" alt="Current Streak" />
-</p>
+</div>
 
 ---
 
@@ -49,3 +50,4 @@ A robust enterprise-level application designed to handle the daily operations of
 * 🗣️ **Languages:**
   * **English:** B2 Level
   * **Spanish:** Native Speaker
+  * **Portuguese:** Basic
