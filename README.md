@@ -26,11 +26,11 @@
 ### 📊 Real-Time Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatiasReal&show_icons=true&theme=radical&hide_border=true&v=1" alt="Matias' GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasReal&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatiasReal&show_icons=true&theme=radical&hide_border=true&v=1" alt="Matias' GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasReal&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" height="170" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true" alt="Current Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true&v=1" alt="Current Streak" />
 </p>
 
 ---
