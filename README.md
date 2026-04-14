@@ -1,4 +1,5 @@
-
+<div align="center">
+  
   # Hi there, I'm Matias Nicolas Real 👋
   
   ### Backend Developer | Scalable Architecture & Automation
@@ -7,7 +8,7 @@
   
   I am a Backend Developer and Informatics student passionate about building robust server-side applications, designing scalable databases, and automating workflows. I thrive in Linux environments and love bringing analytical problem-solving to both my code and everyday life.
   
-
+</div>
 
 ---
 
@@ -18,7 +19,7 @@
 | **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=flat&logo=postgresql&logoColor=white) |
 | **Backend** | ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) |
-| **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+| **Tools & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
 ---
 
@@ -28,9 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MatiasReal&show_icons=true&theme=radical&hide_border=true" alt="Matias' GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasReal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasReal&theme=radical&hide_border=true" alt="Current Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true" alt="Current Streak" />
 </div>
-
 
 ---
 
