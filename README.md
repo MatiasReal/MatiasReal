@@ -25,9 +25,7 @@
 
 ### 📊 Real-Time Dashboard
 
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true" alt="Current Streak" />
-</div>
 ---
 
 ### 🚀 Featured Project
