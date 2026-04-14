@@ -23,14 +23,11 @@
 
 ---
 
-### 📊 Real-Time Dashboard (Intento Dinámico)
+### 📊 Real-Time Dashboard
 
-<p align="center">
-<img src="attachment://image_1.png" alt="Visualización estática de los lenguajes más usados de MatiasReal" width="100%"/>
-</p>
-  <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true&v=1" alt="Current Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MatiasReal&theme=radical&hide_border=true" alt="Current Streak" />
 </div>
-
 ---
 
 ### 🚀 Featured Project
